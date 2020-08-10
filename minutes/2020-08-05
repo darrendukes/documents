@@ -1,0 +1,43 @@
+Srcomp meeting
+2020-08-05 14:00 UTC
+
+Status: draft
+
+Attendees:
+- Cheng Weiqiang of China Mobile [present]
+- Ron Bonica of Juniper [present]
+- Darren Dukes of Cisco [present]
+- Cheng Li of Huawei [present]
+- Peng Shaofu of ZTE and [present]
+- Wim Henderickx of Nokia [present]
+
+=====Topic 1=====
+
+Stage 1: Prepare the requirement draft by end of September
+-	Phase 1:  rough requirements list with several different categories, by 20th of Aug. 
+-	Phase 2:  one week for review by end of Aug.
+-	Phase 3:  finish the draft by 20th of Sep.
+-	Phase 4:  one week for review by end of Sep.
+-	Phase 5:  Post it to WG and present it at IETF 109 
+   Discussion order: follow the time of items.
+
+Stage 2: Prepare the analysis draft by end of November (expected time, Let us talk about the schedule after the first draft finished.)
+-	Input: existing drafts by end of September,
+-	Polling the drafts in WG mail list from Sep 1st to Sep 30th and ensure all the existing drafts counted in. 
+
+=====Topic 2=====
+
+Meetings:  One meeting per week
+Meeting time: UTC: 13:00~14:00 on Wednesday 
+Meeting tools: ZOOM
+
+=====Topic 3=====
+
+Work Model:
+1.	Wim/Daren will provide some suggestion on categories (we should get agreement on categories at first)
+2.	Collect the requirements in parallel
+3.	Sort the requirements to different categories  
+4.	Discuss the items following the categories periodically 
+
+Note:
+If we make important decision, we should ensure all members on line. Decisions should be sent to mail list and everyone should acknowledge. Then the decisions will be used in the group.
